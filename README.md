@@ -6,4 +6,4 @@ This program will **encrypt**, **decrypt** or **decrypt a string using the brute
 
 
 
-#[Return Home](http://speedmirage.me)
+# [Return Home](http://speedmirage.me)
